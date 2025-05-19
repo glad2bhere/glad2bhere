@@ -1,5 +1,5 @@
 ## Hi there 👋
-I built some smaller things like an AI document chat app and scalled a job board to over 900 profiles and over 3,700 subscribors. Currently co-founded Maia, an AI healthcare coding and billing tool for medical groups and practices.
+I built some smaller things like an AI document chat app and scalled a job board to over 900 profiles and over 3,700 subscribors. Currently co-founded and building Maia, an AI healthcare coding and billing tool for medical groups and practices.
 
 
 <!--
